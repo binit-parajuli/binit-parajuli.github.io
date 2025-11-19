@@ -1,11 +1,3 @@
-# Binit Parajuli
-
-**Oran Park, NSW 2570** | **0405 960 046** | **binit.prj@gmail.com**  
-[LinkedIn: linkedin.com/in/binit-parajuli/](https://linkedin.com/in/binit-parajuli/)  
-Australian Citizen | Immediate Availability  
-
----
-
 ## 🧑‍💼 Summary
 
 Data-focused professional with expertise in Python, SQL, data analysis, visualization and predictive modelling.  

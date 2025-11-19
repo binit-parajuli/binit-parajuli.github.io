@@ -1,4 +1,4 @@
-🔗 **LinkedIn**: [linkedin.com/in/binit-parajuli/]
+🔗 [LinkedIn](https://linkedin.com/in/binit-parajuli/)
 
 ## 🧑‍💼 Summary
 

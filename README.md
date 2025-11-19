@@ -2,8 +2,7 @@
 
 ## 🧑‍💼 Summary
 
-Data-focused professional with expertise in Python, SQL, data analysis, visualization and predictive modelling.  
-Experienced in designing scalable databases, automating workflows and delivering actionable insights through data-driven projects. Combines technical proficiency with leadership experience to support operational efficiency and strategic decision-making. Currently pursuing a Master of ICT to deepen analytics and data engineering expertise.
+Data-focused professional with expertise in Python, SQL, data analysis, visualization and predictive modelling. Experienced in designing scalable databases, automating workflows and delivering actionable insights through data-driven projects. Combines technical proficiency with leadership experience to support operational efficiency and strategic decision-making. Currently pursuing a Master of ICT to deepen analytics and data engineering expertise.
 
 ---
 
@@ -30,7 +29,7 @@ Experienced in designing scalable databases, automating workflows and delivering
 ## 💻 Key Projects
 
 ### 🎭 Jaimee GIFs & Memes Database Project  
-**Data Engineering & Cloud Project** – Python, AWS, FastAPI, Docker, PGVector  
+  **Data Engineering & Cloud Project** – Python, AWS, FastAPI, Docker, PGVector  
 - Built a scalable, secure system for collecting, moderating and organizing GIFs and memes for the Jaimee AI platform  
 - Automated ETL pipeline; applied AI and human moderation  
 - Generated semantic embeddings with Amazon Titan, indexed via PGVector for context-aware search  
@@ -38,7 +37,7 @@ Experienced in designing scalable databases, automating workflows and delivering
 - Ensured ethical compliance and copyright safety  
 
 ### ⚡ Australian Household Energy Consumption Prediction  
-**Data Science Project** – Python, scikit-learn, EDA, Regression Models  
+  **Data Science Project** – Python, scikit-learn, EDA, Regression Models  
 - Developed regression-based ML models using 40,000+ household records to predict monthly electricity consumption  
 - Performed data cleaning, preprocessing and outlier handling  
 - Conducted EDA to identify key factors: temperature, occupancy, solar panel usage  
@@ -59,7 +58,7 @@ Experienced in designing scalable databases, automating workflows and delivering
 - Aligned solution with long-term platform growth strategies  
 
 ### 📊 eCommerce Data Analysis Dashboard  
-**Dashboard Project** – Excel, Data Visualization, Business Intelligence  
+  **Dashboard Project** – Excel, Data Visualization, Business Intelligence  
 - Developed interactive dashboard analysing 55,000+ transactions across multiple cities  
 - Created visualizations for sales trends, customer segmentation, purchasing behaviour and payment methods  
 - Implemented dynamic slicers for drill-down analysis; applied best practices for data cleaning and clarity  
@@ -70,7 +69,7 @@ Experienced in designing scalable databases, automating workflows and delivering
 ## 👔 Experience
 
 ### 🚀 Founder & Director  
-**Himalaya Education Foundation** – Sydney | Feb 2020 – Sep 2025  
+  **Himalaya Education Foundation** – Sydney | Feb 2020 – Sep 2025  
 - Managed end-to-end operations for an education consultancy supporting international students  
 - Oversaw admissions guidance, partner relationships, compliance and client services  
 - Introduced structured data tracking processes that improved reporting accuracy and workflow efficiency  
@@ -86,7 +85,7 @@ Experienced in designing scalable databases, automating workflows and delivering
 - Diagnosed process bottlenecks and introduced improvements that enhanced accuracy and overall team productivity  
 
 ### 🌍 Founder & Director  
-**Himalaya Education Foundation** – Kathmandu, Nepal | Jul 2009 – Sep 2016  
+  **Himalaya Education Foundation** – Kathmandu, Nepal | Jul 2009 – Sep 2016  
 - Founded and led an education consultancy focused on guiding students from Nepal to pursue higher education in the USA, Australia, UK and Canada  
 - Managed end-to-end operations including student services, institutional partnerships, compliance and business development  
 - Advised and successfully supported over 1,000 students through international admissions and visa processes  
@@ -98,14 +97,14 @@ Experienced in designing scalable databases, automating workflows and delivering
 
 ## 🎓 Education
 
-**Master of ICT**  
-University of the Sunshine Coast | Oct 2024 – Feb 2026 (expected)  
+  **Master of ICT**  
+  University of the Sunshine Coast | Oct 2024 – Feb 2026 (expected)  
 
-**Graduate Certificate in ICT**  
-University of the Sunshine Coast | Oct 2023 – Nov 2024  
+  **Graduate Certificate in ICT**  
+  University of the Sunshine Coast | Oct 2023 – Nov 2024  
 
-**Bachelor’s Degree in Business Studies**  
-Sanker Dev Campus, Kathmandu, Nepal | Aug 2010 – Dec 2014  
+  **Bachelor’s Degree in Business Studies**  
+  Sanker Dev Campus, Kathmandu, Nepal | Aug 2010 – Dec 2014  
 
-**Bachelor’s Degree in Physics**  
-Tri Chandra Campus, Kathmandu, Nepal | Aug 2006 – Nov 2009  
+  **Bachelor’s Degree in Physics**  
+  Tri Chandra Campus, Kathmandu, Nepal | Aug 2006 – Nov 2009  

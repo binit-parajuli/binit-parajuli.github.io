@@ -1,3 +1,5 @@
+🔗 **LinkedIn**: [linkedin.com/in/binit-parajuli/]
+
 ## 🧑‍💼 Summary
 
 Data-focused professional with expertise in Python, SQL, data analysis, visualization and predictive modelling.  
